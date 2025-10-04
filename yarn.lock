@@ -116,17 +116,6 @@
   optionalDependencies:
     electron-installer-dmg "^4.0.0"
 
-"@electron-forge/maker-flatpak@^6.0.0-beta.64":
-  version "6.4.2"
-  resolved "https://registry.npmjs.org/@electron-forge/maker-flatpak/-/maker-flatpak-6.4.2.tgz"
-  integrity sha512-L52PcFaYh1Muspiejw8O+WwJhb5wS4PPYHYUPCSPRBPgv4MoAAu1IXY4ZZDTcPROPt/npvuQhz43JOEdSBEVtQ==
-  dependencies:
-    "@electron-forge/maker-base" "6.4.2"
-    "@electron-forge/shared-types" "6.4.2"
-    fs-extra "^10.0.0"
-  optionalDependencies:
-    "@malept/electron-installer-flatpak" "^0.11.4"
-
 "@electron-forge/maker-rpm@^6.0.0-beta.54":
   version "6.4.2"
   resolved "https://registry.npmjs.org/@electron-forge/maker-rpm/-/maker-rpm-6.4.2.tgz"
